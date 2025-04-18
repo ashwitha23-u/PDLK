@@ -1,0 +1,3 @@
+Plagiarism occurs when someone uses another person’s words, ideas, or work without giving credit. 
+Most conventional plagiarism detection techniques struggle to detect semantic similarities, 
+particularly when sentences are reworded or structured differently.

@@ -1,0 +1,3 @@
+Plagiarism involves the reuse of someone else's ideas, work, or words without proper attribution. 
+Traditional plagiarism detection methods often fail to recognize meaning-based similarities, 
+especially when sentences have identical surface text or paraphrased structures.
